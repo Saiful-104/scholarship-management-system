@@ -2,7 +2,7 @@
 
 Express.js backend server for the ScholarHub scholarship platform. Provides RESTful APIs for scholarship management, user authentication, applications, reviews, and payments.
 
-**API Base URL:** `http://localhost:3000` (development)
+**API Base URL:** `http://localhost:3000` (For localhost )
 
 ## 📋 Quick Links
 
